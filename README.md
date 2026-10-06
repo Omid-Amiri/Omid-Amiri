@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Omid Amiri</h1>
+<h1 align="center">Hi👋, I'm Omid Amiri</h1>
 <h3 align="center">Computer Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
----
 
 ## 👨‍💻 About Me
-I am a Computer Engineer with a strong focus on Full-Stack Development and Artificial Intelligence (AI). Alongside my bachelor's studies, I completed courses in AI and Web Development. My current goal is to pursue a Master's in AI in Canada while working on AI projects. Some of my projects are available on my [website](https://OmidAmiri.com) and [GitHub](https://github.com/Omid-Amiri).
+I am a Computer Engineer with a strong focus on Full-Stack Development and Artificial Intelligence (AI). Alongside my bachelor's studies, I completed courses in AI and Web Development. My current goal is to pursue a Master's in AI in Canada while working on AI projects.
 
----
 
 ## 🎓 Education
 **Bachelor of Computer Engineering (CE)** | *Sep 2022 – Sep 2026*
 - Major in Software Engineering
 - Islamic Azad University (IAU) In Tehran, Iran
-- GPA 3.7/4.0 (Converted from 16.69/20)
+- GPA 3.7/4.0
 
----
 
 ## 🔬 Research
 **Intelligent Drug Recommendation from Clinical Records Using NLP-Enhanced Machine Learning and Deep Learning Models** | *2026*
