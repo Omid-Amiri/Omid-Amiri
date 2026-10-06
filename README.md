@@ -50,7 +50,7 @@ I am a Computer Engineer with a strong focus on Full-Stack Development and Artif
 - English
 
 
-## 📫 Contact Me:
+## 📫 Contact Me
 <p align="left">
   <a href="mailto:Its.Omid.Amiri@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Email-Its.Omid.Amiri%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" height="30"/> </a>
 </p>
