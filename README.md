@@ -41,7 +41,7 @@ I am a Computer Engineer with a strong focus on Full-Stack Development and Artif
 
 ### Other Skills
 - <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/> React Native
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="20" height="20"/> N8N
+- <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="20" height="20"/> N8N
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> C++
 
 
