@@ -3,7 +3,7 @@
 
 
 ## 👨‍💻 About Me
-I am a Computer Engineer with a strong focus on Full-Stack Development and Artificial Intelligence (AI). Alongside my bachelor's studies, I completed courses in AI and Web Development. My current goal is to pursue a Master's in AI in Canada while working on AI projects.
+I am a Computer Engineer with a strong focus on Full-Stack Development and Artificial Intelligence (AI). Alongside my bachelor's studies, I completed courses in AI and Web Development. My current goal is to pursue a Master's in Computer Engineering (AI focus) in Canada while working on research projects.
 
 
 ## 🎓 Education
